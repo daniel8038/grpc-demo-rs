@@ -17,7 +17,7 @@ async fn main() -> Result<()> {
     // config
     let config = Config {
         grpc_endpoint: "https://solana-yellowstone-grpc.publicnode.com:443".to_string(),
-        target_accounts: vec!["E7zEAEuqTfNb4XYAXk2uhGZWtCtfaZGiqaqAUjyCsN1N".to_string()],
+        target_accounts: vec!["9YwtWKdNczTzJHMbVdh1J3ZFWAVmYPpCPR7FwoMvZkVx".to_string()],
     };
     let state = Arc::new(SharedState {
         config,

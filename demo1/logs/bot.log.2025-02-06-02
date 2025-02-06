@@ -1,0 +1,651 @@
+  [2m2025-02-06T02:10:43.391313Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:10:43.398230Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:11:09.868781Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:11:09.868586726 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:11:09.869755Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:11:09.869730130 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:11:10.190596Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:11:10.190334699 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:11:14.902281Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:11:14.902236789 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:11:15.199973Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:11:15.199908337 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:14:31.317248Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:14:31.322886Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:14:57.615616Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:14:57.615251849 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:14:57.617149Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:14:57.617116319 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:14:57.933857Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:14:57.933659441 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:15:02.487506Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:15:02.487465513 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:15:02.785601Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:15:02.785560741 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:18:15.594161Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:18:15.600273Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:18:42.214359Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:18:42.214237626 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:18:42.215292Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:18:42.215253683 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:18:42.634664Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:18:42.634581964 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:18:47.113124Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:18:47.113068085 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:18:47.392590Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:18:47.392261413 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:18:57.070437Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:18:57.070346715 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:18:57.391765Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:18:57.391724716 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:20:04.575156Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:20:04.581025Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:20:35.763648Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:20:35.763351036 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:20:35.765137Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:20:35.765104277 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:20:35.776854Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:20:35.776804482 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:20:36.081160Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:20:36.080910232 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:20:36.089963Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:20:36.089920014 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:20:45.813073Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:20:45.812976027 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:20:46.285045Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:20:46.284858458 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:20:55.746226Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:20:55.746175992 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:20:56.062699Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:20:56.062652564 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:05.817949Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:05.817891935 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:06.186455Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:06.186400893 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:15.939899Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:15.939788264 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:16.508002Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:16.507936920 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:25.751935Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:25.751894272 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:26.054009Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:26.053975875 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:35.752919Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:35.752851227 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:36.160202Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:36.160101642 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:45.844101Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:45.844047217 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:46.156425Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:46.156382787 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:21:55.756838Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:21:55.756795342 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:21:56.087058Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:21:56.086937120 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:05.783270Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:05.783225915 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:06.170030Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:06.169909542 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:15.829346Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:15.829301263 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:16.204392Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:16.204292163 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:25.803499Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:25.803459193 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:26.220698Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:26.220642617 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:35.778422Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:35.778361058 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:36.195857Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:36.195805364 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:46.177200Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:46.177158314 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:46.797286Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:46.797127975 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:22:55.774891Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:22:55.774788265 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:22:56.150940Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:22:56.150843467 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:05.765650Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:05.765555648 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:06.078993Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:06.078898041 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:15.767615Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:15.767488460 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:16.477850Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:16.477753885 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:25.770743Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:25.770619147 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:26.122739Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:26.122595616 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:35.774460Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:35.774359567 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:36.088469Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:36.088307760 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:45.776360Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:45.776205743 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:46.459820Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:46.459756525 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:23:55.783951Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:23:55.783891059 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:23:56.190152Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:23:56.190099610 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:05.772388Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:05.772293345 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:06.079499Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:06.079470079 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:15.783102Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:15.783030034 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:16.095456Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:16.095407802 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:25.775166Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:25.775073660 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:26.090678Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:26.090597301 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:35.775886Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:35.775789444 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:36.082026Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:36.081907189 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:45.840526Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:45.840397678 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:46.151553Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:46.151524151 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:24:55.795624Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:24:55.795517009 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:24:56.103739Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:24:56.103562673 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:05.780813Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:05.780688741 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:06.102063Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:06.102005797 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:15.786111Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:15.786013041 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:16.316391Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:16.316294741 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:25.785509Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:25.785370904 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:26.095724Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:26.095657064 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:35.855649Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:35.855576133 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:36.158770Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:36.158635205 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:45.881451Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:45.881347379 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:46.488388Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:46.488330414 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:25:55.844150Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:25:55.844022986 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:25:56.416618Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:25:56.416555231 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:05.866780Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:05.866682839 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:06.262596Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:06.262526982 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:16.000639Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:16.000530047 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:16.374151Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:16.374085880 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:25.791016Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:25.790966123 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:26.093287Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:26.093248262 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:35.798157Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:35.798007711 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:36.147520Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:36.147426813 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:45.797900Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:45.797777998 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:46.109346Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:46.109319639 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:26:55.800131Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:26:55.800093149 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:26:56.111888Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:26:56.111772102 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:05.800208Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:05.800107307 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:06.107258Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:06.107085613 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:15.806348Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:15.806243967 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:16.152324Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:16.152154767 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:25.805348Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:25.805246698 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:26.115200Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:26.115060832 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:35.804001Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:35.803902455 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:36.118076Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:36.117983958 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:45.807909Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:45.807814717 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:46.117498Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:46.117327133 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:27:56.046829Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:27:56.046775342 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:27:56.445760Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:27:56.445662678 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:05.810918Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:05.810860339 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:06.119185Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:06.119142893 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:15.934574Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:15.934524531 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:16.395328Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:16.395286780 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:25.822654Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:25.822556081 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:26.135677Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:26.135552210 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:35.809757Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:35.809714511 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:36.136386Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:36.136359206 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:45.816407Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:45.816302388 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:46.146858Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:46.146816261 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:28:55.813190Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:28:55.813132496 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:28:56.123226Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:28:56.123130293 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:05.814803Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:05.814748499 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:06.136924Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:06.136800398 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:15.820945Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:15.820826940 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:16.178979Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:16.178914486 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:25.816555Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:25.816478325 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:26.160722Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:26.160656431 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:35.855755Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:35.855683747 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:36.175418Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:36.175376766 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:45.821194Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:45.821063876 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:46.135746Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:46.135618176 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:29:55.820027Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:29:55.819925479 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:29:56.143473Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:29:56.143377417 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:05.821577Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:05.821476957 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:06.132790Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:06.132730671 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:15.831800Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:15.831703245 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:16.137560Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:16.137495870 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:25.844542Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:25.844492420 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:26.147381Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:26.147324453 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:35.837079Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:35.837036394 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:36.215030Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:36.214989064 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:45.849620Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:45.849568833 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:46.290169Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:46.290127193 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:30:55.828472Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:30:55.828403495 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:30:56.133440Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:30:56.133316520 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:05.832504Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:05.832430068 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:06.139391Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:06.139347483 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:15.928269Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:15.928212697 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:16.302578Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:16.302458383 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:25.839787Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:25.839599738 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:26.151884Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:26.151787771 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:35.836435Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:35.836337142 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:36.168511Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:36.168444991 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:45.839385Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:45.839192351 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:46.143997Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:46.143932275 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:31:55.841625Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:31:55.841528890 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:31:56.147643Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:31:56.147577746 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:05.844027Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:05.843980330 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:06.158157Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:06.158087591 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:15.902267Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:15.902209604 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:16.224152Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:16.224108530 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:25.879804Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:25.879749787 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:26.232998Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:26.232957554 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:35.858208Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:35.858112085 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:36.320504Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:36.320438341 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:45.845840Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:45.845789273 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:46.148555Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:46.148446272 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:32:55.846664Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:32:55.846567254 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:32:56.159907Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:32:56.159813769 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:05.866700Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:05.866600151 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:06.189548Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:06.189371906 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:15.970351Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:15.970250954 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:16.444293Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:16.444166559 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:25.855422Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:25.855337273 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:26.171256Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:26.171185271 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:35.852866Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:35.852809251 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:36.230070Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:36.229921780 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:45.854854Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:45.854703064 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:46.262238Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:46.262137631 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:33:55.857179Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:33:55.857079220 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:33:56.165385Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:33:56.165338893 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:05.861136Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:05.861086134 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:06.163220Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:06.163160890 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:15.861883Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:15.861821845 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:16.178284Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:16.178239371 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:25.863612Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:25.863513474 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:26.187438Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:26.187391317 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:35.862746Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:35.862593846 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:36.173718Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:36.173649919 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:45.863418Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:45.863293677 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:46.174102Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:46.174054187 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:34:55.866816Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:34:55.866765074 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:34:56.199573Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:34:56.199479478 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:36:06.535518Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:36:06.545076Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:36:37.867205Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:36:37.866923818 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:36:37.868618Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:36:37.868586414 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:36:37.889606Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:36:37.889491051 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:36:47.862371Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:36:47.862276064 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:36:57.864953Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:36:57.864892426 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:38:24.438220Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mSpawning monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:31
+
+  [2m2025-02-06T02:38:24.444619Z[0m [32m INFO[0m [1;32mdemo1[0m[32m: [32mWaiting for monitor task...[0m
+    [2;3mat[0m demo1/src/main.rs:43
+
+  [2m2025-02-06T02:38:56.134931Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:38:56.134589901 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:38:56.136479Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:38:56.136446867 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:38:56.138858Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:38:56.138823548 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:38:56.460339Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:38:56.460144655 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
+  [2m2025-02-06T02:39:06.122806Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is ping: 2025-02-06 10:39:06.122681565 +08:00 false[0m
+    [2;3mat[0m demo1/src/monitor.rs:67
+
+  [2m2025-02-06T02:39:06.614546Z[0m [32m INFO[0m [1;32mdemo1::monitor[0m[32m: [32mservice is pong: 2025-02-06 10:39:06.614258496 +08:00[0m
+    [2;3mat[0m demo1/src/monitor.rs:70
+
